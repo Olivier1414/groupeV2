@@ -1,0 +1,8 @@
+ATTESTATION
+
+Je soussigné(e), responsable de l'établissement, atteste que {{ civilite }} {{ prenom }} {{ nom }} participe à l'activité suivante : {{ motif }}.
+
+Référence : {{ numero }}
+Établi le {{ date }}.
+
+Signature et cachet :

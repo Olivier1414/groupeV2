@@ -1,0 +1,10 @@
+BULLETIN DE RÉSULTATS
+
+Nom : {{ nom }}
+Prénom : {{ prenom }}
+Période / matière : {{ motif }}
+Note : {{ note }} / 20
+Date : {{ date }}
+Référence : {{ numero }}
+
+Appréciation :

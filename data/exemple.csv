@@ -1,0 +1,5 @@
+﻿type,civilite,nom,prenom,date,motif,montant,note,email
+attestation,M.,RAKOTO,Jean,23/10/2026,Stage informatique,0,0,jean@example.com
+convocation,Mme,RASOA,Marie,25/10/2026,Examen,0,0,marie@example.com
+recu,M.,ANDRIA,Paul,23/10/2026,Frais de formation,25000,0,paul@example.com
+bulletin,Mme,RABE,Sarah,23/10/2026,Trimestre 1,0,16.5,sarah@example.com

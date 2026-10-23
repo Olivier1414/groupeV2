@@ -1,0 +1,8 @@
+REÇU DE PAIEMENT
+
+Reçu de {{ civilite }} {{ prenom }} {{ nom }} le montant de {{ montant }}.
+Objet du paiement : {{ motif }}
+Date : {{ date }}
+Référence du reçu : {{ numero }}
+
+Signature :

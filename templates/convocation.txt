@@ -1,0 +1,10 @@
+CONVOCATION
+
+{{ civilite }} {{ prenom }} {{ nom }} est prié(e) de se présenter pour : {{ motif }}.
+
+Date : {{ date }}
+Référence : {{ numero }}
+
+Merci de vous présenter à l'heure indiquée.
+
+Signature :
